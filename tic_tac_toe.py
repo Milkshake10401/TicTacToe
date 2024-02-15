@@ -18,9 +18,11 @@ def get_player_input():
     return row, col
 
 # This functions checks if there is a winner after each move, considering rows, columns and diagonals.
+# Check rows, columns, and diagonals
+# Return 'X' if Player X wins, 'O' if Player O wins, or None if no winner yet
 def check_winner(board):
-    # Check rows, columns, and diagonals
-    # Return 'X' if Player X wins, 'O' if Player O wins, or None if no winner yet
+
+
 
 
 def main():
